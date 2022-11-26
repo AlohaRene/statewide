@@ -1,2 +1,1 @@
-landing page
-from three years ago apparently. It shall be updated... 
+It will be a general landing page.
